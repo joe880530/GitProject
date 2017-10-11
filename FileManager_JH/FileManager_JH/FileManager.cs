@@ -104,6 +104,8 @@ namespace FileManager_JH
         {
             Console.WriteLine("test 구문");
             MessageBox.Show("Delete Folder");
+            MessageBox.Show("Delete Folder2");
+            MessageBox.Show("Delete Folder3");
         }
     }
 }
