@@ -103,6 +103,7 @@ namespace FileManager_JH
         public void Delete_Folder()
         {
             MessageBox.Show("Delete Folder");
+            // 수정
         }
     }
 }
