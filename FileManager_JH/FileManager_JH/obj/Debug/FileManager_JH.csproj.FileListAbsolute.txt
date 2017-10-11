@@ -1,0 +1,7 @@
+c:\users\daekhon_jiho\documents\visual studio 2013\Projects\FileManager_JH\FileManager_JH\bin\Debug\FileManager_JH.exe.config
+c:\users\daekhon_jiho\documents\visual studio 2013\Projects\FileManager_JH\FileManager_JH\bin\Debug\FileManager_JH.exe
+c:\users\daekhon_jiho\documents\visual studio 2013\Projects\FileManager_JH\FileManager_JH\bin\Debug\FileManager_JH.pdb
+c:\users\daekhon_jiho\documents\visual studio 2013\Projects\FileManager_JH\FileManager_JH\obj\Debug\FileManager_JH.Properties.Resources.resources
+c:\users\daekhon_jiho\documents\visual studio 2013\Projects\FileManager_JH\FileManager_JH\obj\Debug\FileManager_JH.csproj.GenerateResource.Cache
+c:\users\daekhon_jiho\documents\visual studio 2013\Projects\FileManager_JH\FileManager_JH\obj\Debug\FileManager_JH.exe
+c:\users\daekhon_jiho\documents\visual studio 2013\Projects\FileManager_JH\FileManager_JH\obj\Debug\FileManager_JH.pdb
