@@ -102,6 +102,7 @@ namespace FileManager_JH
 
         public void Delete_Folder()
         {
+            Console.WriteLine("test 구문");
             MessageBox.Show("Delete Folder");
         }
     }

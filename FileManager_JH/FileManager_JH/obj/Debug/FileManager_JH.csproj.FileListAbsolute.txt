@@ -5,3 +5,6 @@ c:\users\daekhon_jiho\documents\visual studio 2013\Projects\FileManager_JH\FileM
 c:\users\daekhon_jiho\documents\visual studio 2013\Projects\FileManager_JH\FileManager_JH\obj\Debug\FileManager_JH.csproj.GenerateResource.Cache
 c:\users\daekhon_jiho\documents\visual studio 2013\Projects\FileManager_JH\FileManager_JH\obj\Debug\FileManager_JH.exe
 c:\users\daekhon_jiho\documents\visual studio 2013\Projects\FileManager_JH\FileManager_JH\obj\Debug\FileManager_JH.pdb
+D:\6. Git Project\FileManager_JH\FileManager_JH\bin\Debug\FileManager_JH.exe.config
+D:\6. Git Project\FileManager_JH\FileManager_JH\obj\Debug\FileManager_JH.exe
+D:\6. Git Project\FileManager_JH\FileManager_JH\obj\Debug\FileManager_JH.pdb
